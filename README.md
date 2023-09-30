@@ -25,17 +25,17 @@ const sabrina = {
   <br>
 
 - 📐 Architect / Urban planner turned developer
-- 📓 Moved to Lisbon to do my Masters in Urban Planning
+- 📓 Moved to Lisbon to pursue my Masters in Urban Planning
 - 🗺 I love maps, I'm actually quite good with geoprocessing tools
 - 💪 Proud single mom, my daughter is actually 17 years old 😱
-- 🎨 I love arts, one of my hobbies is to draw (you can check my [Instagram](https://www.instagram.com/sabrina_bertol/)!)
+- 🎨 Really into arts, one of my hobbies is drawing (you can check my [Instagram](https://www.instagram.com/sabrina_bertol/)!)
 - 🎧 I also love music, specially electronic / psychedelic / experimental (the weird stuff)
 - 🤓 Currently learning more about React and Svelte
 
 
 ### Certifications
 
-I love to study and I am always trying to learn new things. Here are some of the courses I took over the past years: 
+I love to improve myself and I am always trying to learn new things. Here are some of the courses I took over the past years: 
 
   - [Le Wagon Full-Stack Coding Bootcamp](https://drive.google.com/file/d/1VCwmzvL0R47qsbCf4zoyADMyVFeUHmAv/view?usp=drivesdk)
   - [Understanding TypeScript](https://www.udemy.com/certificate/UC-f8efbf02-450c-41f4-a2c3-e71d8dbd3fad/)
