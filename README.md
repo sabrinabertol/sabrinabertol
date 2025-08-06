@@ -4,7 +4,7 @@
 const sabrina = {
   pronouns: "she" | "her",
   from: "Brazil",
-  age: 36,
+  age: 38,
   current: {
                       work: "QA Tester & Jr. Developer",
                       location: "Lisbon - Portugal",
@@ -30,7 +30,7 @@ I've been working for the past 2 years as a QA tester and Jr. Developer for a ma
 - 📐 Architect / Urban planner turned developer
 - 📓 Moved to Lisbon to pursue my Masters in Urban Planning
 - 🗺 I love maps, I'm actually quite good with geoprocessing tools
-- 💪 Proud single mom, my daughter is actually 17 years old 😱
+- 💪 Proud single mom, my daughter is actually 18 years old 😱
 - 🎨 One of my favorite hobbies is drawing, you can check my <a href='https://www.instagram.com/sabrina_bertol/' target="_blank">Instagram</a>!
 - 🎧 I also love music, specially electronic / psychedelic / experimental (the weird stuff)
 - 🤓 Currently learning more about React and Svelte
